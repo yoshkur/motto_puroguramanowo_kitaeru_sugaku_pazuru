@@ -1,0 +1,2 @@
+# motto_puroguramanowo_kitaeru_sugaku_pazuru
+もっとプログラマ脳を鍛える数学パズル
